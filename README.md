@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="claude-prompt-header.jpeg" alt="Claude Prompts — AI-Powered Prompt Engine" width="100%">
+</p>
+
 # Claude Prompts
 
 AI prompt database and builder skill for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) with 2,500+ curated prompts across 19 categories and 17 AI models.
