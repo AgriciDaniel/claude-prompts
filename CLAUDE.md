@@ -1,4 +1,4 @@
-# Claude Prompts -- AI Prompt Database and Builder
+# Claude Prompts — AI Prompt Database and Builder
 
 ## Project Overview
 
@@ -38,9 +38,9 @@ claude-prompts/
 ## Key Principles
 
 1. **Progressive Disclosure**: Metadata always loaded, instructions on activation, references on demand
-2. **Placeholder Paths**: Source files use `{PROMPT_ENGINE_DIR}` -- `install.sh` substitutes with actual repo path
+2. **Placeholder Paths**: Source files use `{PROMPT_ENGINE_DIR}` — `install.sh` substitutes with actual repo path
 3. **Symlinked References**: `references/` is symlinked into the installed skill to avoid duplication
-4. **Template Scraper**: `scrape_airtable.py` ships with an empty TABLES dict -- users add their own URLs
+4. **Template Scraper**: `scrape_airtable.py` ships with an empty TABLES dict — users add their own URLs
 
 ## Development Rules
 
