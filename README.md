@@ -29,13 +29,23 @@ Search, build, enhance, and adapt prompts for Midjourney, Flux, Leonardo AI, DAL
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI
 - Python 3.10+
 
-### Install
+### Install (Linux / macOS)
 
 ```bash
 git clone https://github.com/AgriciDaniel/claude-prompts.git
 cd claude-prompts
 bash install.sh
 ```
+
+### Install (Windows / PowerShell)
+
+```powershell
+git clone https://github.com/AgriciDaniel/claude-prompts.git
+cd claude-prompts
+.\install.ps1
+```
+
+> **Note:** The prompt database (`prompts/all_prompts.json`) is ~5.4 MB. Total repository size is approximately 12 MB.
 
 The install script:
 1. Copies skill files to `~/.claude/skills/`
@@ -153,6 +163,19 @@ The extraction pipeline supports Airtable shared views:
 3. Run the scraper: `python3 scripts/scrape_airtable.py --output raw`
 4. Extract and categorize: `python3 scripts/extract_prompts.py --input raw --output prompts`
 5. Reinstall: `bash install.sh`
+
+## Attribution & Disclaimer
+
+The prompts in this database were collected from publicly shared Airtable views and community sources.
+If you are the original creator of any prompt and would like it removed or credited differently,
+please open an issue and we will address it promptly. This project is intended for educational
+and creative purposes. Always respect the original creators' rights and terms of service.
+
+## Support
+
+- **Issues**: [GitHub Issues](https://github.com/AgriciDaniel/claude-prompts/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AgriciDaniel/claude-prompts/discussions)
+- **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
