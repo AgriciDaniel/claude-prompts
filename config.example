@@ -1,0 +1,38 @@
+# Claude Prompts -- Configuration Example
+#
+# This file documents the variables used by the install script.
+# You do NOT need to create a config file for normal installation.
+# The install script (install.sh / install.ps1) handles everything automatically.
+#
+# If the installer fails or you need a custom setup, these are the values it uses:
+
+# ---- Path Configuration ----
+
+# Where the repository is cloned (auto-detected by install script)
+PROMPT_ENGINE_DIR=/path/to/claude-prompts
+
+# Where Claude Code skills are installed (default: ~/.claude/skills/)
+SKILLS_DIR=$HOME/.claude/skills
+
+# ---- Placeholder Substitution ----
+#
+# SKILL.md files use {PROMPT_ENGINE_DIR} as a placeholder for the repo path.
+# The install script replaces all occurrences with the actual path via sed/PowerShell.
+#
+# Example: {PROMPT_ENGINE_DIR}/scripts/search_prompts.py
+# Becomes: /home/user/claude-prompts/scripts/search_prompts.py
+#
+# If you move the repository after installing, re-run the install script.
+
+# ---- Airtable Scraper (Optional) ----
+#
+# To add your own prompt sources, edit scripts/scrape_airtable.py and add entries
+# to the TABLES dict. No environment variables are needed -- URLs go directly in the script.
+#
+# The raw/ directory (gitignored) stores intermediate scraping output.
+# The prompts/ directory stores the final extracted and categorized prompts.
+
+# ---- Python Requirements ----
+#
+# Core (search and extraction): Python 3.10+ (standard library only)
+# Scraper (optional): pip install playwright && playwright install chromium
