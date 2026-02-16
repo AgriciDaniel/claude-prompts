@@ -1,0 +1,26 @@
+# Raw scraped data (large, intermediate)
+raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Empty placeholder dirs
+data/
+images/
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

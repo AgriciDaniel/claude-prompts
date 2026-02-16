@@ -1,0 +1,300 @@
+[
+  {
+    "_id": "recRI4DymX4AFHAbx",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "In a bustling kitchen, a chef plates a vibrant dish under the warm glow of pendant lights. Shot on a Sony FX6 with a Sigma Art 85mm lens at f/1.4, the shallow depth of field isolates the hands and the intricate details of the food. The camera focuses on the plate with a slow rack focus to the chef's concentrated expression. Practical lighting from the pendant lamps creates soft, warm highlights on the food, enhancing its texture and appeal.",
+    "ID": 33,
+    "Type": "Scenery",
+    "Extract Prompt": "In a bustling kitchen, a chef plates a v",
+    "Details": " 🪄 In a bustling kitchen, a chef plates a v",
+    "Date": "2025-04-19T15:56:20.000Z",
+    "Days Date": -301,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine",
+      "ai-video-engine"
+    ],
+    "Tags": [
+      "Cinematic"
+    ],
+    "_category": "food-drink",
+    "_model": null,
+    "_output_type": "video"
+  },
+  {
+    "_id": "recoID9EcKUTlgbPZ",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "Extreme close up of red wine being poured, tasty food photo for commercial and advertising catalogue, restaurant photography",
+    "ID": 157,
+    "Type": "Commercial/Ad",
+    "Extract Prompt": "Extreme close up of red wine being poure",
+    "Details": " 🪄 Extreme close up of red wine being poure",
+    "Date": "2025-04-21T17:12:39.000Z",
+    "Days Date": -299,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine"
+    ],
+    "_category": "food-drink",
+    "_model": null,
+    "_output_type": "image"
+  },
+  {
+    "_id": "recokYWEItjdg0CA3",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "Cinematic tracking shot following a distressed woman through a dense, multi-level cyberpunk shopping arcade, captured with a 28mm Zeiss Supreme prime lens at T4. The space is a maze of vendor stalls illuminated by thousands of small practical lights, LED strips, and floating holographic advertisements, creating a mixed palette of warm tungsten and cool LED tones. The camera moves smoothly at eye level through crowds of cybernetically-augmented shoppers, occasionally employing snap-zooms to heighten disorientation. Steam rises from food stalls, creating atmospheric haze that catches the light. The woman clutches a malfunctioning holographic map casting unstable blue light on her worried face. Multiple levels are visible through metal grating walkways, with connecting bridges crisscrossing overhead. Vendor displays mix traditional paper lanterns with high-tech floating holograms, price displays, and scrolling text, creating a dense visual environment reminiscent of Ghost in the Shell's urban atmosphere. The scene is shot at 24fps with natural motion blur, emphasizing the chaotic energy of the crowded space.",
+    "Tags": [
+      "Cinematic",
+      "Tracking shot"
+    ],
+    "ID": 228,
+    "Extract Prompt": "Cinematic tracking shot following a dist",
+    "Details": "Cinematic, Tracking shot 🪄 Cinematic tracking shot following a dist",
+    "Date": "2025-04-21T17:12:39.000Z",
+    "Days Date": -299,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine"
+    ],
+    "_category": "food-drink",
+    "_model": null,
+    "_output_type": "video"
+  },
+  {
+    "_id": "recgbInwnCfkeMCMw",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "A close-up of a chef’s hands kneading dough, flour dusting the air, warm kitchen lighting, in a documentary style with a focus on texture and detail",
+    "Tags": [
+      "Cinematic"
+    ],
+    "ID": 250,
+    "Extract Prompt": "A close-up of a chef’s hands kneading do",
+    "Details": "Cinematic 🪄 A close-up of a chef’s hands kneading do",
+    "Date": "2025-04-21T17:12:39.000Z",
+    "Days Date": -299,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine"
+    ],
+    "_category": "food-drink",
+    "_model": null,
+    "_output_type": "image"
+  },
+  {
+    "_id": "recHGuNrRWSUCPJAo",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "Top-down kitchen island: a chef drops a steak onto a ripping hot cast-iron pan. Immediate sizzle, popping fat, faint extractor hum; tongs tap. 4 seconds total, tungsten under-cabinet warmth, convincing smoke wisps and specular highlights on oil.",
+    "ID": 475,
+    "Type": "Sora",
+    "Extract Prompt": "Top-down kitchen island: a chef drops a ",
+    "Details": " 🪄 Top-down kitchen island: a chef drops a ",
+    "Date": "2025-10-07T16:03:56.000Z",
+    "Days Date": -130,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine"
+    ],
+    "_category": "food-drink",
+    "_model": "Sora",
+    "_output_type": "video"
+  },
+  {
+    "_id": "recyALREkIv2Pqjrf",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "Gentle push-in through a street market at dusk—vendors, steam from food stalls, hanging bulbs swaying. Natural crowd murmur bed, occasional vendor shout, scooter beep weaving by right-to-left. Subtle rack focus from foreground fruit to a customer smile",
+    "ID": 477,
+    "Type": "Sora",
+    "Extract Prompt": "Gentle push-in through a street market a",
+    "Details": " 🪄 Gentle push-in through a street market a",
+    "Date": "2025-10-07T16:03:57.000Z",
+    "Days Date": -130,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine",
+      "ai-video-engine"
+    ],
+    "_category": "food-drink",
+    "_model": "Sora",
+    "_output_type": "video"
+  },
+  {
+    "_id": "recPwnwqLKyYVLUrV",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Photorealistic, Food",
+    "Category": "Midjourney",
+    "Full Prompt": "Extreme close up of fries with fresh beef steak on a white plate, tasty food photo for commercial and advertising catalogue, restaurant photography",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "att5wiUplWmFxkoAT",
+        "url": "https://dl.airtable.com/.directUploadAttachment/bccd4c879e79893da5a91388729f713e/a8bfafaa/metricsmule_Extreme_close_up_of_fries_with_fresh_beef_steak_o_ebd473a8-3626-4b61-96db-7bdcacdb331f_0.png",
+        "filename": "metricsmule_Extreme_close_up_of_fries_with_fresh_beef_steak_o_ebd473a8-3626-4b61-96db-7bdcacdb331f_0.png",
+        "type": "image/png",
+        "size": 1735522
+      }
+    ],
+    "Sub-Category": [
+      "Food"
+    ],
+    "Tags": [
+      "Photorealistic"
+    ],
+    "Date": "2024-05-20T00:00:00.000Z",
+    "ID": 643,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "food-drink",
+    "_model": "Midjourney",
+    "_output_type": "image",
+    "_styles": [
+      "Photorealistic",
+      "Food"
+    ]
+  },
+  {
+    "_id": "recDxhAyd2PnJf03O",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Photorealistic, Food",
+    "Category": "Midjourney",
+    "Full Prompt": "incredibly ultra realistic advertisement photo of a closeup image of the perfect display of sushi, winner of the Michelin",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attjwgqfidPVGunFS",
+        "url": "https://dl.airtable.com/.directUploadAttachment/65e7ed5eeb28a57eb68d59609fa10439/e6c65224/metricsmule_incredibly_ultra_realistic_advertisement_photo_of_eab08c2d-456f-4bc5-94d8-4edf7a0c1440_0.png",
+        "filename": "metricsmule_incredibly_ultra_realistic_advertisement_photo_of_eab08c2d-456f-4bc5-94d8-4edf7a0c1440_0.png",
+        "type": "image/png",
+        "size": 2046985
+      },
+      {
+        "id": "att0iiCKvzbuYedZ9",
+        "url": "https://dl.airtable.com/.directUploadAttachment/43aba9b1cef0d0df51c3ce1b7dd26ee6/defb5e0c/metricsmule_incredibly_ultra_realistic_advertisement_photo_of_eab08c2d-456f-4bc5-94d8-4edf7a0c1440_3.png",
+        "filename": "metricsmule_incredibly_ultra_realistic_advertisement_photo_of_eab08c2d-456f-4bc5-94d8-4edf7a0c1440_3.png",
+        "type": "image/png",
+        "size": 1603790
+      }
+    ],
+    "Sub-Category": [
+      "Food"
+    ],
+    "Tags": [
+      "Photorealistic"
+    ],
+    "Date": "2024-08-07T00:00:00.000Z",
+    "ID": 709,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "food-drink",
+    "_model": "Midjourney",
+    "_output_type": "image",
+    "_styles": [
+      "Photorealistic",
+      "Food"
+    ]
+  },
+  {
+    "_id": "recSHTiWodFWmKCVX",
+    "_table_id": "tblOqpjCg4QcF3PEL",
+    "Name": "Flux Realism ┃  , 361",
+    "Prompt": "Dutch Bros coffee with cream and a straw, surrounded by a baby blue background of starry lights and falling coffee beans]. Commercial food photography image for an advertising campaign, high resolution, high level of details",
+    "Type": "Flux Realism",
+    "ID": 361,
+    "Image": [
+      {
+        "id": "attCCZxnUT2Z2HvXs",
+        "url": "https://dl.airtable.com/.directUploadAttachment/7191afd775f53f91f717c5695e2651ec/95ae3728/freepik__the-style-is-candid-image-photography-with-natural__32722.jpeg",
+        "filename": "freepik__the-style-is-candid-image-photography-with-natural__32722.jpeg",
+        "type": "image/jpeg",
+        "size": 71539
+      },
+      {
+        "id": "atteEYWjWyRK3AwRM",
+        "url": "https://dl.airtable.com/.directUploadAttachment/49b5e4c9fc0de4e7e168d6f788a9d1e3/9afad9a6/freepik__the-style-is-candid-image-photography-with-natural__32723.jpeg",
+        "filename": "freepik__the-style-is-candid-image-photography-with-natural__32723.jpeg",
+        "type": "image/jpeg",
+        "size": 84443
+      }
+    ],
+    "💜": true,
+    "Date": "2025-04-07T18:16:00.000Z",
+    "_source_table": "mega-prompts-1",
+    "_source_name": "Mega Prompts (View 1)",
+    "_sources": [
+      "mega-prompts-1"
+    ],
+    "_category": "food-drink",
+    "_model": "Flux",
+    "_output_type": "image"
+  },
+  {
+    "_id": "rechC37c6jWz2iXdV",
+    "_table_id": "tbl0Zkr7nngGNlWj6",
+    "Name/Keyword": "Spun sugar",
+    "Image Example": [
+      {
+        "id": "attwF4L3wXmWH9u7Y",
+        "url": "https://dl.airtable.com/.directUploadAttachment/bb464d873d8a7674c5e03e236775c89b/2cba329f/Leonardo_Vision_XL_Extreme_closeup_of_delicate_spun_sugar_stra_2.jpg",
+        "filename": "Leonardo_Vision_XL_Extreme_closeup_of_delicate_spun_sugar_stra_2.jpg",
+        "type": "image/jpeg",
+        "size": 2042035
+      }
+    ],
+    "Prompt Example": "Extreme close-up of delicate spun sugar strands catching light, shot with Sony A1, 90mm macro lens, professional food photography setup. Gossamer-thin threads creating abstract architectural forms, backlighting revealing transparent nature. Focus stacked for complete detail, soft box lighting creating subtle highlights, shallow depth of field at f/2.8. Culinary artistry, commercial quality",
+    "Date ": "2024-10-13T16:03:45.000Z",
+    "_source_table": "unique-keywords",
+    "_source_name": "Unique Keywords",
+    "_sources": [
+      "unique-keywords"
+    ],
+    "_category": "food-drink",
+    "_model": null,
+    "_output_type": "image"
+  },
+  {
+    "_id": "recbp0BGlkMTAFhR7",
+    "_table_id": "tbl0Zkr7nngGNlWj6",
+    "Name/Keyword": "Ultra-High Resolution",
+    "Image Example": [
+      {
+        "id": "attKbYapqrXbWZUvt",
+        "url": "https://dl.airtable.com/.directUploadAttachment/2a3678408a786f7ecfb5f9c5ba3178e9/b2097b7d/metricsmule_Ultra-High_resolution_image_filet_mignon_steak_ga_4f35ca0c-b1dd-4f28-9fff-6b03b1f40ca4_3.png",
+        "filename": "metricsmule_Ultra-High_resolution_image_filet_mignon_steak_ga_4f35ca0c-b1dd-4f28-9fff-6b03b1f40ca4_3.png",
+        "type": "image/png",
+        "size": 1484286
+      },
+      {
+        "id": "atto9Ymf7jJliT697",
+        "url": "https://dl.airtable.com/.directUploadAttachment/d29ef0ce49997995e9c89e5b142f38fe/adfb0373/metricsmule_Ultra-High_resolution_image_filet_mignon_steak_ga_4f35ca0c-b1dd-4f28-9fff-6b03b1f40ca4_2.png",
+        "filename": "metricsmule_Ultra-High_resolution_image_filet_mignon_steak_ga_4f35ca0c-b1dd-4f28-9fff-6b03b1f40ca4_2.png",
+        "type": "image/png",
+        "size": 1904565
+      }
+    ],
+    "Prompt Example": "Ultra-High resolution image, filet mignon steak garnished with garlic, gourmet dishes in a fine dining restaurant, focus on texture and color, food photography",
+    "Date ": "2024-12-15T14:50:31.000Z",
+    "_source_table": "unique-keywords",
+    "_source_name": "Unique Keywords",
+    "_sources": [
+      "unique-keywords"
+    ],
+    "_category": "food-drink",
+    "_model": null,
+    "_output_type": "image"
+  }
+]

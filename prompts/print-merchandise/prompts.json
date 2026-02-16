@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "recI4hu8A4es8lwCo",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Leonardo AI 🎨 DreamShaper 3.2, Hyper realistic, Animal",
+    "Category": "Leonardo AI",
+    "Full Prompt": "8K, HDR, masterpiece, photography,photorealistic, detailed illustration face tiny cat, fire, t-shirt design, flowers splash, t-shirt design, in the style of Studio Ghibli, pastel tetradic colors, 3D vector art, cute and quirky, fantasy art, watercolor effect, bokeh, Adobe Illustrator, hand-drawn, digital painting, low-poly, soft lighting, bird's-eye view, isometric style, retro aesthetic, focused on the character, 4K resolution, photorealistic rendering, using Cinema 4D",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attdaNaM0zKiSmjgO",
+        "url": "https://dl.airtable.com/.attachments/cd0beea63ef3d45b7517f095da6aba7a/19c62484/Default_8K_HDR_masterpiece_photographyphotorealistic_detailed_1_8ad49231-24f2-4a0c-869d-488f729c860c_1.jpg",
+        "filename": "Default_8K_HDR_masterpiece_photographyphotorealistic_detailed_1_8ad49231-24f2-4a0c-869d-488f729c860c_1.jpg",
+        "type": "image/jpeg",
+        "size": 746760
+      }
+    ],
+    "Sub-Category": [
+      "Hyper realistic",
+      "Animal"
+    ],
+    "Tags": [
+      "DreamShaper 3.2"
+    ],
+    "Date": "2023-04-19T00:00:00.000Z",
+    "ID": 1,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "print-merchandise",
+    "_model": "Leonardo AI",
+    "_output_type": "image",
+    "_styles": [
+      "DreamShaper 3.2",
+      "Hyper realistic",
+      "Animal"
+    ]
+  },
+  {
+    "_id": "recmw7MtsDbfbspQK",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Any Platform 🎨 Print, POD, t-shirt",
+    "Category": "Any Platform",
+    "Full Prompt": "Design a T-shirt graphic showcasing the mysterious beauty of space, highlighting constellations, galaxies, and nebulas. \"--ar 3:4 --s 100 --no t-shirt\"",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "att6WbXA6QyrSWCO7",
+        "url": "https://dl.airtable.com/.attachments/bf8e8d9f4f56262890aa1c1146543985/c739109c/metricsmule_Design_a_T-shirt_graphic_showcasing_the_mysterious__905c119b-636f-4137-bde7-37656213708e.png",
+        "filename": "metricsmule_Design_a_T-shirt_graphic_showcasing_the_mysterious__905c119b-636f-4137-bde7-37656213708e.png",
+        "type": "image/png",
+        "size": 6501271
+      }
+    ],
+    "Sub-Category": [
+      "POD",
+      "t-shirt"
+    ],
+    "Tags": [
+      "Print"
+    ],
+    "Date": "2023-08-23T00:00:00.000Z",
+    "N": true,
+    "ID": 158,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "🎯": true,
+    "_category": "print-merchandise",
+    "_model": "Any Platform",
+    "_output_type": "image",
+    "_styles": [
+      "Print",
+      "POD",
+      "t-shirt"
+    ]
+  },
+  {
+    "_id": "rec94yhhb5kBnEIv5",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Print, t-shirt",
+    "Category": "Midjourney",
+    "Full Prompt": "vector t-shirt art ready for print colorful graffiti illustration of a horse, frontal perspective, action shot, vibrant color, high detail",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attClJJJ4mw43udCu",
+        "url": "https://dl.airtable.com/.attachments/7457c52bee406a9605e452419eb70190/0a7560f6/metricsmule_A_neon_donkey_vector_t-shirt_design_pop_culture_mas_261f8564-b21e-4dea-a469-5f1cb3a202d2.png",
+        "filename": "metricsmule_A_neon_donkey_vector_t-shirt_design_pop_culture_mas_261f8564-b21e-4dea-a469-5f1cb3a202d2.png",
+        "type": "image/png",
+        "size": 1385817
+      }
+    ],
+    "Sub-Category": [
+      "t-shirt"
+    ],
+    "Tags": [
+      "Print"
+    ],
+    "Date": "2023-11-02T00:00:00.000Z",
+    "ID": 280,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "print-merchandise",
+    "_model": "Midjourney",
+    "_output_type": "image",
+    "_styles": [
+      "Print",
+      "t-shirt"
+    ]
+  },
+  {
+    "_id": "recAY1qcfYnrlpBUV",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "DALLE 🎨 Print, t-shirt",
+    "Category": "DALLE",
+    "Full Prompt": "Can you generate some [Halloween] themed t-shirt designs? The left side should contain just the design, the right side should feature a model wearing the same design. Use a wide aspect ratio.",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "att4ADyiY3IQefCvn",
+        "url": "https://dl.airtable.com/.attachments/d4f435317957c8eec049005852e4dbf9/f9350531/DALLE2023-12-1912.02.26-AHalloween-themedt-shirtdesigndividedintotwosections.OntheleftthedesignfeaturestypicalHalloweenmotifslikepumpkinsghostsandwit.png",
+        "filename": "DALL·E 2023-12-19 12.02.26 - A Halloween-themed t-shirt design, divided into two sections. On the left, the design features typical Halloween motifs like pumpkins, ghosts, and wit.png",
+        "type": "image/png",
+        "size": 2488081
+      }
+    ],
+    "Sub-Category": [
+      "t-shirt"
+    ],
+    "Tags": [
+      "Print"
+    ],
+    "Date": "2023-12-20T00:00:00.000Z",
+    "ID": 496,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "print-merchandise",
+    "_model": "DALL-E",
+    "_output_type": "image",
+    "_styles": [
+      "Print",
+      "t-shirt"
+    ]
+  },
+  {
+    "_id": "recZl0Kv2l1EOgmr8",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "DALLE 🎨 , ",
+    "Category": "DALLE",
+    "Full Prompt": "Can you generate some [Christmas] themed t-shirt designs? The left side should contain just the design, the right side should feature a model wearing the same design. Use a wide aspect ratio.",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attgfLQRcCpQe7Ac7",
+        "url": "https://dl.airtable.com/.attachments/dd05eca721377542a7716d8f14122ed2/9adfba5c/DALLE2023-12-2012.19.02-Awide-formatimageshowcasingChristmas-themedt-shirtdesigns.Ontheleftsideoftheimagedisplaythet-shirtdesignsfeaturingfestiveelements.png",
+        "filename": "DALL·E 2023-12-20 12.19.02 - A wide-format image showcasing Christmas-themed t-shirt designs. On the left side of the image, display the t-shirt designs featuring festive elements.png",
+        "type": "image/png",
+        "size": 3719054
+      }
+    ],
+    "Date": "2023-12-20T00:00:00.000Z",
+    "MM Web": [
+      "DALLE Prompt Generator"
+    ],
+    "ID": 497,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "print-merchandise",
+    "_model": "DALL-E",
+    "_output_type": "image"
+  }
+]

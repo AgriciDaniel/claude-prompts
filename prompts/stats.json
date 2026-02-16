@@ -1,0 +1,109 @@
+{
+  "processed_at": "2026-02-16 03:00:05",
+  "total_raw": 5727,
+  "total_unique": 2503,
+  "duplicates_removed": 3184,
+  "categories": {
+    "fashion-editorial": 473,
+    "video-general": 287,
+    "general": 221,
+    "portraits-people": 198,
+    "landscapes-nature": 180,
+    "abstract-backgrounds": 171,
+    "sci-fi-futuristic": 135,
+    "architecture": 129,
+    "logos-icons": 116,
+    "generators": 115,
+    "text": 114,
+    "animated-3d": 92,
+    "vehicles": 82,
+    "superheroes": 58,
+    "fantasy": 56,
+    "products": 42,
+    "animals": 18,
+    "food-drink": 11,
+    "print-merchandise": 5
+  },
+  "models": {
+    "Midjourney": 981,
+    "Leonardo AI": 237,
+    "Freepik": 172,
+    "Mystic": 166,
+    "Flux": 137,
+    "Any Platform": 97,
+    "DALL-E": 42,
+    "Imagen": 26,
+    "Sora": 24,
+    "ChatGPT": 22,
+    "Grok": 9,
+    "Canva": 9,
+    "Adobe Firefly": 8,
+    "Ideogram": 8,
+    "PicLumen": 8,
+    "RenderNet": 1,
+    "Stable Diffusion": 1
+  },
+  "output_types": {
+    "video": 1225,
+    "image": 1049,
+    "generator": 115,
+    "text": 114
+  },
+  "tables": {
+    "ai-influencer": {
+      "name": "AI Influencer",
+      "source": "api",
+      "raw_prompts": 676
+    },
+    "ai-video-engine": {
+      "name": "AI Video Engine",
+      "source": "api",
+      "raw_prompts": 394
+    },
+    "content-king": {
+      "name": "Content King",
+      "source": "api",
+      "raw_prompts": 17
+    },
+    "freepik-prompts": {
+      "name": "Free Freepik Prompts",
+      "source": "api",
+      "raw_prompts": 190
+    },
+    "mega-ai-images": {
+      "name": "Mega AI Images",
+      "source": "api",
+      "raw_prompts": 1132
+    },
+    "mega-prompts-1": {
+      "name": "Mega Prompts (View 1)",
+      "source": "api",
+      "raw_prompts": 391
+    },
+    "mega-prompts-2": {
+      "name": "Mega Prompts (View 2)",
+      "source": "api",
+      "raw_prompts": 1132
+    },
+    "mega-prompts-db": {
+      "name": "Mega Prompts Database",
+      "source": "api",
+      "raw_prompts": 1132
+    },
+    "prompt-generators": {
+      "name": "Prompt Generators",
+      "source": "api",
+      "raw_prompts": 294
+    },
+    "prompt-portal": {
+      "name": "Prompt Portal",
+      "source": "api",
+      "raw_prompts": 175
+    },
+    "unique-keywords": {
+      "name": "Unique Keywords",
+      "source": "api",
+      "raw_prompts": 194
+    }
+  }
+}

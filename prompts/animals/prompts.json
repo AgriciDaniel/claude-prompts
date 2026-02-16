@@ -1,0 +1,631 @@
+[
+  {
+    "_id": "recM6Rut6ijREf9Sy",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "Flying through a dense jungle canopy during a high-speed drone chase, sunlight piercing through the leaves, vibrant green foliage, and the sound of rustling leaves and distant wildlife. The camera moves fluidly, weaving between trees, close to the ground, and then soaring up for a bird’s-eye view.",
+    "ID": 55,
+    "Type": "FPV",
+    "Extract Prompt": "Flying through a dense jungle canopy dur",
+    "Details": " 🪄 Flying through a dense jungle canopy dur",
+    "Date": "2025-04-19T15:56:20.000Z",
+    "Days Date": -301,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine"
+    ],
+    "_category": "animals",
+    "_model": null,
+    "_output_type": "video"
+  },
+  {
+    "_id": "reco95ZB9LOrnLDUw",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "Periscope Dive Shot: Into an underwater coral reef scene, midday, in the Maldives. The camera moves as if peeking over a coral outcrop, revealing a colorful, bustling marine ecosystem. The \"periscope\" movement introduces viewers to the hidden world below the waves in stages, from the sunlit surface waters down to the vibrant coral city teeming with life. The high-definition visuals capture the intricate details of the coral and the fluid movements of the fish, creating a sense of discovery and wonder",
+    "ID": 77,
+    "Type": "Cinematic",
+    "Extract Prompt": "Periscope Dive Shot: Into an underwater ",
+    "Details": " 🪄 Periscope Dive Shot: Into an underwater ",
+    "Date": "2025-04-19T15:56:20.000Z",
+    "Days Date": -301,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine"
+    ],
+    "_category": "animals",
+    "_model": null,
+    "_output_type": "video"
+  },
+  {
+    "_id": "recMgPv4vjiLNHiL4",
+    "_table_id": "tbl4c5HRnQBkv2lLA",
+    "Prompt": "Wide-angle shot of a diver swimming through a vibrant coral reef. The camera, a RED Komodo 6K with a wide-angle underwater lens, follows the diver as they glide slowly past schools of colorful fish. Sunlight filters through the water's surface, casting dappled patterns across the corals. The scene is alive with movement: fish darting, the diver’s gentle movements, and the swaying of sea anemones. The color palette is vivid, emphasizing the rich blues of the water and the bright colors of the coral.",
+    "ID": 183,
+    "Extract Prompt": "Wide-angle shot of a diver swimming thro",
+    "Details": " 🪄 Wide-angle shot of a diver swimming thro",
+    "Date": "2025-04-21T17:12:39.000Z",
+    "Days Date": -299,
+    "_source_table": "ai-video-engine",
+    "_source_name": "AI Video Engine",
+    "_sources": [
+      "ai-video-engine"
+    ],
+    "_category": "animals",
+    "_model": null,
+    "_output_type": "video"
+  },
+  {
+    "_id": "reccvRBckyC9AMgyh",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Leonardo AI 🎨 Leonardo AI, Midjourney, Scenery",
+    "Category": "Leonardo AI",
+    "Full Prompt": "\"[Topic] made of stardust chasing comets :: outer space :: Wide shot :: ethereal lighting :: vibrant :: mysterious/exciting :: digital illustration :: Peter Mohrbacher :: --ar 6:9\n\nEXAMPLE: \nTiger made of stardust chasing comets :: outer space :: Wide shot :: ethereal lighting :: vibrant :: mysterious/exciting :: digital illustration :: Peter Mohrbacher :: --ar 6:9\"",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attuAcjiFWJEWIqXH",
+        "url": "https://dl.airtable.com/.attachments/78955a897ada19241f52756cc7eba839/ce4a3399/Leonardo_Diffusion_tigers_made_of_stardust_chasing_comets_ou_0.jpg",
+        "filename": "Leonardo_Diffusion_tigers_made_of_stardust_chasing_comets_ou_0.jpg",
+        "type": "image/jpeg",
+        "size": 675404
+      }
+    ],
+    "Sub-Category": [
+      "Scenery"
+    ],
+    "Tags": [
+      "Leonardo AI",
+      "Midjourney"
+    ],
+    "Date": "2023-05-15T00:00:00.000Z",
+    "ID": 31,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "animals",
+    "_model": "Leonardo AI",
+    "_output_type": "image",
+    "_styles": [
+      "Leonardo AI",
+      "Midjourney",
+      "Scenery"
+    ]
+  },
+  {
+    "_id": "recHCJMg4cU3JTsTX",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Animated, dreamworks, pixar, Unreal Engine, Realistic Rendering",
+    "Category": "Midjourney",
+    "Full Prompt": "Cute baby {elephant} with sunlight glow, realistic rendering, unreal engine 5 --ar 16:9",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attz7AEHlcQudDp4m",
+        "url": "https://dl.airtable.com/.attachments/0ec814fd8444ca5dfaceec610bc08efd/e98895d5/MetricsMule_Cute_baby_elephant_with_sunlight_glow_realistic_ren_d22107ae-8967-458e-b586-60a8adfa4290.png",
+        "filename": "MetricsMule_Cute_baby_elephant_with_sunlight_glow_realistic_ren_d22107ae-8967-458e-b586-60a8adfa4290.png",
+        "type": "image/png",
+        "size": 6468069
+      }
+    ],
+    "Sub-Category": [
+      "Unreal Engine",
+      "Realistic Rendering"
+    ],
+    "Tags": [
+      "Animated",
+      "dreamworks",
+      "pixar"
+    ],
+    "Date": "2023-06-19T00:00:00.000Z",
+    "ID": 77,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-2",
+      "mega-prompts-db",
+      "mega-prompts-db"
+    ],
+    "EB": true,
+    "_category": "animals",
+    "_model": "Midjourney",
+    "_output_type": "image",
+    "_styles": [
+      "Animated",
+      "dreamworks",
+      "pixar",
+      "Unreal Engine",
+      "Realistic Rendering"
+    ]
+  },
+  {
+    "_id": "recQS7BBoe3v4tRHt",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Watercolor, art",
+    "Category": "Midjourney",
+    "Full Prompt": "watercolor, soft pastel palette, nursery wall art, very minimalistic one line drawing of elephant --ar 3:2 --style rawa",
+    "Sub-Category": [
+      "art"
+    ],
+    "Tags": [
+      "Watercolor"
+    ],
+    "Date": "2023-09-12T00:00:00.000Z",
+    "ID": 193,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "animals",
+    "_model": "Midjourney",
+    "_output_type": "image",
+    "_styles": [
+      "Watercolor",
+      "art"
+    ]
+  },
+  {
+    "_id": "rec69IHc4ReYvLUWN",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Coloring Book, sticker, Animal",
+    "Category": "Midjourney",
+    "Full Prompt": "watercolor, soft pastel palette, nursery wall art, very minimalistic one line drawing of elephant --ar 3:2 --style raw",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "att9uhv8UuOSqj2OG",
+        "url": "https://dl.airtable.com/.attachments/4eea5a770cea6ac1ecee9934435b680c/5bc2ed2e/metricsmule_watercolor_soft_pastel_palette_nursery_wall_art_ver_af6c2c80-0274-49ba-bc20-0397937c7ba3.png",
+        "filename": "metricsmule_watercolor_soft_pastel_palette_nursery_wall_art_ver_af6c2c80-0274-49ba-bc20-0397937c7ba3.png",
+        "type": "image/png",
+        "size": 3500253
+      }
+    ],
+    "Sub-Category": [
+      "Animal"
+    ],
+    "Tags": [
+      "Coloring Book",
+      "sticker"
+    ],
+    "Date": "2023-11-02T00:00:00.000Z",
+    "ID": 294,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "animals",
+    "_model": "Midjourney",
+    "_output_type": "image",
+    "_styles": [
+      "Coloring Book",
+      "sticker",
+      "Animal"
+    ]
+  },
+  {
+    "_id": "recb6Uny7TVqKeN8M",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Cinematic, Photorealistic",
+    "Category": "Midjourney",
+    "Full Prompt": "Polar Panorama Photography, A bustling metropolis, with a central park acting as the lungs, bending into urban hustle, Fish-Eye Lens, Center Focus, Blinding Light from towering skyscrapers, Overcast Midday, shot with Fujifilm GFX 50R, Urban Oasis",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attXPGOsIhhIrGIzL",
+        "url": "https://dl.airtable.com/.attachments/5a47e93964a8286d604deb2c506dfd12/84062540/F9tVBoVW8AA1ixq.jpeg",
+        "filename": "F9tVBoVW8AA1ixq.jpeg",
+        "type": "image/jpeg",
+        "size": 342701
+      }
+    ],
+    "🩷": true,
+    "Sub-Category": [
+      "Photorealistic"
+    ],
+    "Tags": [
+      "Cinematic"
+    ],
+    "Date": "2023-11-04T00:00:00.000Z",
+    "ID": 383,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "EB": true,
+    "_category": "animals",
+    "_model": "Midjourney",
+    "_output_type": "video",
+    "_styles": [
+      "Cinematic",
+      "Photorealistic"
+    ]
+  },
+  {
+    "_id": "rec7Yp2l0UWRfXUS8",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 Animal, Photorealistic",
+    "Category": "Midjourney",
+    "Full Prompt": "a 3d sculpture of a big white lion with jewelry, in the style of ethereal illustrations, realistic portrayal, hyperrealistic animal portraits",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attEWqfYol3Bkj7L0",
+        "url": "https://dl.airtable.com/.attachments/1c1ab320337facfb8bd74471093b3e6b/11a3c04e/metricsmule_a_3d_sculpture_of_a_big_white_lion_with_jewelry_in__93451e61-7817-48f8-9dc9-3dc09983879c.png",
+        "filename": "metricsmule_a_3d_sculpture_of_a_big_white_lion_with_jewelry_in__93451e61-7817-48f8-9dc9-3dc09983879c.png",
+        "type": "image/png",
+        "size": 1988334
+      }
+    ],
+    "Sub-Category": [
+      "Photorealistic"
+    ],
+    "Tags": [
+      "Animal"
+    ],
+    "Date": "2023-12-08T00:00:00.000Z",
+    "ID": 453,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db",
+      "unique-keywords"
+    ],
+    "Name/Keyword": "Ethereal Light (fantasy, magical effect)",
+    "Image Example": [
+      {
+        "id": "att4t7gF8kWmzDGk7",
+        "url": "https://dl.airtable.com/.attachments/b14344680c8403ea578a6ff0663d8c64/049f80be/metricsmule_a_3d_sculpture_of_a_big_white_lion_with_jewelry_in__93451e61-7817-48f8-9dc9-3dc09983879c.png",
+        "filename": "metricsmule_a_3d_sculpture_of_a_big_white_lion_with_jewelry_in__93451e61-7817-48f8-9dc9-3dc09983879c.png",
+        "type": "image/png",
+        "size": 1988334
+      },
+      {
+        "id": "attdloYPitgpGhyRS",
+        "url": "https://dl.airtable.com/.attachments/8d4526bc40de5555ecd418ae73e0e3dc/3ab5952b/Screenshot2023-12-08at10.16.15PM.png",
+        "filename": "Screenshot 2023-12-08 at 10.16.15 PM.png",
+        "type": "image/png",
+        "size": 3931850
+      }
+    ],
+    "Prompt Example": "a 3d sculpture of a big white lion with jewelry, in the style of ethereal illustrations, realistic portrayal, hyperrealistic animal portraits",
+    "Date ": "2024-01-08T19:55:27.000Z",
+    "_category": "animals",
+    "_model": "Midjourney",
+    "_output_type": "image",
+    "_styles": [
+      "Animal",
+      "Photorealistic"
+    ]
+  },
+  {
+    "_id": "recXXii6vRx3AgyvP",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Any Platform 🎨 Animal, Photorealistic",
+    "Category": "Any Platform",
+    "Full Prompt": "A majestic wolf, standing amidst the Apollonian Gasket, illuminated in moonlit silver and midnight blue, symbolizing instinct and the beauty of the wild",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attjiXZ0RfsgQOH7f",
+        "url": "https://dl.airtable.com/.attachments/3d2644a3fffea60c3986b77c10eb86ed/895c81fd/metricsmule_A_majestic_wolf_standing_amidst_the_Apollonian_Gask_b4c4834b-041a-4fd5-89cc-20f07f4bb265.png",
+        "filename": "metricsmule_A_majestic_wolf_standing_amidst_the_Apollonian_Gask_b4c4834b-041a-4fd5-89cc-20f07f4bb265.png",
+        "type": "image/png",
+        "size": 1575636
+      },
+      {
+        "id": "attQRy7l9PJZSYkJD",
+        "url": "https://dl.airtable.com/.attachments/151ec4ea095d0b014558fcbf8b125851/9a381f6d/metricsmule_A_majestic_wolf_standing_amidst_the_Apollonian_Gask_c7dbc91a-4eed-4075-b352-7c4b25561ea0.png",
+        "filename": "metricsmule_A_majestic_wolf_standing_amidst_the_Apollonian_Gask_c7dbc91a-4eed-4075-b352-7c4b25561ea0.png",
+        "type": "image/png",
+        "size": 1805468
+      }
+    ],
+    "Sub-Category": [
+      "Photorealistic"
+    ],
+    "Tags": [
+      "Animal"
+    ],
+    "Date": "2023-12-11T00:00:00.000Z",
+    "ID": 463,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "animals",
+    "_model": "Any Platform",
+    "_output_type": "image",
+    "_styles": [
+      "Animal",
+      "Photorealistic"
+    ]
+  },
+  {
+    "_id": "recvSCk19ygo1Yjlo",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Leonardo AI 🎨 Bioluminescent, Futuristic, Animal",
+    "Category": "Leonardo AI",
+    "Full Prompt": "Spiraliverse neon fractal lighting flame lion",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attvXwdS0u6Z06OU0",
+        "url": "https://dl.airtable.com/.attachments/4cbf41fa83bf8dffb2a41d082e5d3cd8/021c4800/AlbedoBase_XL_Spiraliverse_neon_fractal_lighting_flame_lion_ar_1.jpg",
+        "filename": "AlbedoBase_XL_Spiraliverse_neon_fractal_lighting_flame_lion_ar_1.jpg",
+        "type": "image/jpeg",
+        "size": 1596044
+      }
+    ],
+    "🩷": true,
+    "Sub-Category": [
+      "Futuristic",
+      "Animal"
+    ],
+    "Tags": [
+      "Bioluminescent"
+    ],
+    "Date": "2023-12-28T00:00:00.000Z",
+    "ID": 519,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db",
+      "unique-keywords",
+      "unique-keywords"
+    ],
+    "Name/Keyword": "Spiraliverse",
+    "Image Example": [
+      {
+        "id": "attZbrXvpDHV446UF",
+        "url": "https://dl.airtable.com/.attachments/5de9b1e59b8103954bfcdee3e600923d/f28baaa4/AlbedoBase_XL_Spiraliverse_neon_fractal_lighting_flame_lion_ar_1.jpg",
+        "filename": "AlbedoBase_XL_Spiraliverse_neon_fractal_lighting_flame_lion_ar_1.jpg",
+        "type": "image/jpeg",
+        "size": 1596044
+      }
+    ],
+    "Prompt Example": "Spiraliverse neon fractal lighting flame lion",
+    "🧰": true,
+    "Date ": "2024-01-08T19:57:37.000Z",
+    "_category": "animals",
+    "_model": "Leonardo AI",
+    "_output_type": "image",
+    "_styles": [
+      "Bioluminescent",
+      "Futuristic",
+      "Animal"
+    ]
+  },
+  {
+    "_id": "rec1mXEN50GxkVQNE",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Leonardo AI 🎨 animal, Abstract",
+    "Category": "Leonardo AI",
+    "Full Prompt": "The agile cat in 'Luminescent Labyrinth', a mesmerizing maze of soft pink glowing, transparent tubes, lit from within by a dazzling array of colorful, pulsating patterns",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "attd1mKkuk1VT88gV",
+        "url": "https://dl.airtable.com/.attachments/667f125a6b5f8a63aa72ac0fad1b5244/edd1545a/Default_The_agile_cat_in_Luminescent_Labyrinth_a_mesmerizing_m_1.jpg",
+        "filename": "Default_The_agile_cat_in_Luminescent_Labyrinth_a_mesmerizing_m_1.jpg",
+        "type": "image/jpeg",
+        "size": 1715263
+      }
+    ],
+    "Sub-Category": [
+      "Abstract"
+    ],
+    "Tags": [
+      "animal"
+    ],
+    "Date": "2024-02-24T00:00:00.000Z",
+    "ID": 571,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "animals",
+    "_model": "Leonardo AI",
+    "_output_type": "image",
+    "_styles": [
+      "animal",
+      "Abstract"
+    ]
+  },
+  {
+    "_id": "recwdVBGgxCrvD3Hx",
+    "_table_id": "tblRbhGFO4Yvuvmxt",
+    "Type": "Midjourney 🎨 , ",
+    "Category": "Midjourney",
+    "Full Prompt": "Ring Doorbell footage, delivery driver at night, fish-eye lens, motion blur",
+    "Attachments (Downloadable, Expand)": [
+      {
+        "id": "att7sGgwkBai4EgUd",
+        "url": "https://dl.airtable.com/.directUploadAttachment/e24e9231ee6f30c081dcda0af0c26fdd/06a015cb/metricsmule_Ring_Doorbell_footage_delivery_driver_at_night_fi_d619c5e3-e381-49e4-ae55-751d6e0230bb_1.png",
+        "filename": "metricsmule_Ring_Doorbell_footage_delivery_driver_at_night_fi_d619c5e3-e381-49e4-ae55-751d6e0230bb_1.png",
+        "type": "image/png",
+        "size": 1970389
+      }
+    ],
+    "Date": "2025-03-25T00:00:00.000Z",
+    "ID": 1108,
+    "🏜️": true,
+    "_source_table": "mega-ai-images",
+    "_source_name": "Mega AI Images",
+    "_sources": [
+      "mega-ai-images",
+      "mega-prompts-2",
+      "mega-prompts-db"
+    ],
+    "_category": "animals",
+    "_model": "Midjourney",
+    "_output_type": "video"
+  },
+  {
+    "_id": "rec1vTFYa9RxrSiDn",
+    "_table_id": "tblOqpjCg4QcF3PEL",
+    "Name": "Flux 1.1 Pro ┃ documentary style , 103",
+    "Prompt": "Hyper-realistic National Geographic photo of a majestic African elephant. Golden hour lighting, savanna backdrop. Telephoto lens, shallow depth of field. Tack-sharp focus on elephant's eye. Textured skin, impressive tusks. Rule of thirds composition. Acacia tree silhouette, distant watering hole. Rich, vibrant colors. 8K resolution, high dynamic range. Evoke awe",
+    "Type": "Flux 1.1 Pro",
+    "ID": 103,
+    "Tags/Styles": [
+      "documentary style"
+    ],
+    "Image": [
+      {
+        "id": "attMk4kq27v4K3jPa",
+        "url": "https://dl.airtable.com/.directUploadAttachment/e971fa36e96da17b1242b2a77077be5f/a4e43c02/pikaso_edit_Candid-image-photography-natural-textures-highly-r-2.jpg",
+        "filename": "pikaso_edit_Candid-image-photography-natural-textures-highly-r-2.jpg",
+        "type": "image/jpeg",
+        "size": 861510
+      }
+    ],
+    "Date": "2024-10-03T20:47:36.000Z",
+    "_source_table": "mega-prompts-1",
+    "_source_name": "Mega Prompts (View 1)",
+    "_sources": [
+      "mega-prompts-1"
+    ],
+    "_category": "animals",
+    "_model": "Flux",
+    "_output_type": "image"
+  },
+  {
+    "_id": "recLgVGWTboqdlFg6",
+    "_table_id": "tblJzFNdU330gSdcE",
+    "🤖Full Prompt": "You will take on the role as the ultimate prompt enhancer for prompts that create AI images for tools like Midjourney, Stable Diffusion, DALL-E and Leonardo AI. You are a prompt engineering expert that can take the simplest prompts and 10X them to masterful, highly detailed levels that only you could craft. But I want you to provide your best work. In order to provide your best work, please tell me first what other details I should provide you in order for you to create the most amazing prompts.\n\n--------\nAfter the AI tells you, then ask this question ⬇️\n--------\n\nCan you please provide me with an example of each tip you just listed?\n\n--------\nFinal Step below \n--------\nBased on this concept you provided [A lone wolf howling at the moon] please provide me with a full example of everything you just shared.",
+    "🏞️Image": [
+      {
+        "id": "attY1FRVP78vN0Oht",
+        "url": "https://dl.airtable.com/.directUploadAttachment/4f9a55b4fa3236fa3591016045a3579e/df2277e3/image-31.jpg",
+        "filename": "image-31.jpg",
+        "type": "image/jpeg",
+        "size": 228450
+      }
+    ],
+    "🍿Category": "Any Platform",
+    "▶️used": true,
+    "📝Quick Description": "Tips to get the best prompts from LLMs",
+    "ID": 112,
+    "🚀Type": "Tips to get the best prompts from LLMs",
+    "Date Added": "2024-08-31T01:42:21.000Z",
+    "Prompt Length": 817,
+    "Date Modified": "2025-11-26T23:22:37.000Z",
+    "Lower": "you will take on the role as the ultimate prompt enhancer for prompts that create ai images for tools like midjourney, stable diffusion, dall-e and leonardo ai. you are a prompt engineering expert that can take the simplest prompts and 10x them to masterful, highly detailed levels that only you could craft. but i want you to provide your best work. in order to provide your best work, please tell me first what other details i should provide you in order for you to create the most amazing prompts.\n\n--------\nafter the ai tells you, then ask this question ⬇️\n--------\n\ncan you please provide me with an example of each tip you just listed?\n\n--------\nfinal step below \n--------\nbased on this concept you provided [a lone wolf howling at the moon] please provide me with a full example of everything you just shared.\n\n",
+    "_source_table": "prompt-generators",
+    "_source_name": "Prompt Generators",
+    "_sources": [
+      "prompt-generators"
+    ],
+    "_category": "animals",
+    "_model": "Midjourney",
+    "_output_type": "image"
+  },
+  {
+    "_id": "recCSZRH0ARihcOLJ",
+    "_table_id": "tblJzFNdU330gSdcE",
+    "🤖Full Prompt": "#ROLE \nYou are a prompt-improving, stills archive meta token-improving genius expert. You have the absolute expert ability to thoroughly inspect any prompt for AI images, their purpose, and their strengths. Based on your assessment, you have the expert ability to 10X beyond better levels of the original, specifically for exceptional photo realism, completely removing any form of the \"AI look.\" You excel at taking the #1 meta token, \"stills archive\" for AI images that generate the most realistic, cinematic images that look just like the real Hollywood movie studio production. \n\n#CONTEXT \nI am going to provide you with a prompt that has the meta token \"stills archive\" in it. Examples can look like this: \n- stills archive, universal .com \n- stills archive, guardians of the galaxy, disney .com \n- stills archive, subservience movie, behind the scenes shot, Megan Fox, netflix \n- stills Archive, Harley Quinn, lionsgate .com, The most realistic cinematic style shot ever of a Hollywood movie film \nBased on its characteristics and assumed purpose, I want to receive better prompts, more variations, and possibly better meta tokens or an alternative to \"stills archive.\" I want to achieve the most impressive levels of cinematic AI realism. \n\n#INSTRUCTION \nBased on the prompt I provide you with, analyze it and then provide me with 10 other prompts that are even better, more attention to detail, the best possible meta tokens to achieve realism levels beyond typical \"AI look generations.\"  The ten prompts you will provide will not include the \"stills archive\" meta token because they will contain differnt meta tokens, but just as good, if not better. Your job is to take what I've provided using the top-secret, #1 meta token for AI images, \"stills archive,\" and improve upon it, make it better, and provide me with more, better, top-secret level meta tokens and full prompts. With the ten prompts you provide, you have full control to add, replace, remove, or change any of my current keywords in the prompt I provide. It's your job to 10X any prompt I provide. After you provide the 10 prompts, I want you to start an iteration process to either create more prompts, change the subject, brainstorm 10 more creative ideas, or provide the prompts again, but in a detailed, structured JSON format. \nYour first question will be to ask me what my current prompt is.",
+    "🔖Tags": [
+      "stills archive",
+      "META Tokens🪙",
+      "⚡️10X"
+    ],
+    "🍿Category": "🤫Top-Secret",
+    "📝Quick Description": "🎬 + 🧠 Stills Archive, Genius 10X + Iteration Process",
+    "🏆MVP": true,
+    "ID": 318,
+    "🚀Type": "🎬 + 🧠 Stills Archive, Genius 10X + Iteration Process ",
+    "Date Added": "2026-02-01T03:05:18.000Z",
+    "IF VIP": "🔥",
+    "Prompt Length": 2373,
+    "Date Modified": "2026-02-02T21:03:07.000Z",
+    "Lower": "#role \nyou are a prompt-improving, stills archive meta token-improving genius expert. you have the absolute expert ability to thoroughly inspect any prompt for ai images, their purpose, and their strengths. based on your assessment, you have the expert ability to 10x beyond better levels of the original, specifically for exceptional photo realism, completely removing any form of the \"ai look.\" you excel at taking the #1 meta token, \"stills archive\" for ai images that generate the most realistic, cinematic images that look just like the real hollywood movie studio production. \n\n#context \ni am going to provide you with a prompt that has the meta token \"stills archive\" in it. examples can look like this: \n- stills archive, universal .com \n- stills archive, guardians of the galaxy, disney .com \n- stills archive, subservience movie, behind the scenes shot, megan fox, netflix \n- stills archive, harley quinn, lionsgate .com, the most realistic cinematic style shot ever of a hollywood movie film \nbased on its characteristics and assumed purpose, i want to receive better prompts, more variations, and possibly better meta tokens or an alternative to \"stills archive.\" i want to achieve the most impressive levels of cinematic ai realism. \n\n#instruction \nbased on the prompt i provide you with, analyze it and then provide me with 10 other prompts that are even better, more attention to detail, the best possible meta tokens to achieve realism levels beyond typical \"ai look generations.\"  the ten prompts you will provide will not include the \"stills archive\" meta token because they will contain differnt meta tokens, but just as good, if not better. your job is to take what i've provided using the top-secret, #1 meta token for ai images, \"stills archive,\" and improve upon it, make it better, and provide me with more, better, top-secret level meta tokens and full prompts. with the ten prompts you provide, you have full control to add, replace, remove, or change any of my current keywords in the prompt i provide. it's your job to 10x any prompt i provide. after you provide the 10 prompts, i want you to start an iteration process to either create more prompts, change the subject, brainstorm 10 more creative ideas, or provide the prompts again, but in a detailed, structured json format. \nyour first question will be to ask me what my current prompt is. ",
+    "_source_table": "prompt-generators",
+    "_source_name": "Prompt Generators",
+    "_sources": [
+      "prompt-generators"
+    ],
+    "_category": "animals",
+    "_model": null,
+    "_output_type": "video"
+  },
+  {
+    "_id": "recE7gU9MMImoR16F",
+    "_table_id": "tbl0Zkr7nngGNlWj6",
+    "Name/Keyword": "Bird's eye view",
+    "Image Example": [
+      {
+        "id": "attesFAlIGtJ5OmYW",
+        "url": "https://dl.airtable.com/.attachments/6b7993fa599144e71a6d8513ae8f3ba8/20f94fb9/Absolute_Reality_v16_Nighttime_birds_eye_view_of_the_Las_Vegas_1.jpg",
+        "filename": "Absolute_Reality_v16_Nighttime_birds_eye_view_of_the_Las_Vegas_1.jpg",
+        "type": "image/jpeg",
+        "size": 1672598
+      }
+    ],
+    "Prompt Example": "Nighttime bird’s eye view of the Las Vegas strip, mega casinos illuminated by their bright lights",
+    "🧰": true,
+    "Date ": "2024-01-22T22:04:21.000Z",
+    "_source_table": "unique-keywords",
+    "_source_name": "Unique Keywords",
+    "_sources": [
+      "unique-keywords"
+    ],
+    "_category": "animals",
+    "_model": null,
+    "_output_type": "image"
+  },
+  {
+    "_id": "rec243pDn1pmtJM9Y",
+    "_table_id": "tbl0Zkr7nngGNlWj6",
+    "Name/Keyword": "Vibrant neon spectrum",
+    "Image Example": [
+      {
+        "id": "attJkSINoR5M0CSRo",
+        "url": "https://dl.airtable.com/.directUploadAttachment/c52c1d76b225cec67cfcbd3ff735fc05/fe8010e0/Default_Imagine_a_neon_lion_its_mane_composed_of_interlocking_1.jpg",
+        "filename": "Default_Imagine_a_neon_lion_its_mane_composed_of_interlocking_1.jpg",
+        "type": "image/jpeg",
+        "size": 745203
+      },
+      {
+        "id": "att66KBLy7yw6WkHI",
+        "url": "https://dl.airtable.com/.directUploadAttachment/4ff8912cc2f1473dbdb9afee92c390d8/2c5a4c41/Default_Imagine_a_neon_lion_its_mane_composed_of_interlocking_2.jpg",
+        "filename": "Default_Imagine_a_neon_lion_its_mane_composed_of_interlocking_2.jpg",
+        "type": "image/jpeg",
+        "size": 769535
+      }
+    ],
+    "Prompt Example": "Imagine a neon lion, its mane composed of interlocking gears and circuitry, each cog and wire glowing in a vibrant neon spectrum. As the lion roars, digital sparks erupt from its mouth, symbolizing the company's capacity to ignite innovation. Dive into the symbolism of the lion as a catalyst for technological advancement.",
+    "Date ": "2024-01-22T22:05:31.000Z",
+    "_source_table": "unique-keywords",
+    "_source_name": "Unique Keywords",
+    "_sources": [
+      "unique-keywords",
+      "unique-keywords"
+    ],
+    "_category": "animals",
+    "_model": null,
+    "_output_type": "video"
+  }
+]
