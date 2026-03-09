@@ -4,6 +4,15 @@
 
 set -euo pipefail
 
+# Cross-platform sed in-place (GNU sed uses -i, BSD/macOS sed requires -i '')
+sedi() {
+    if sed --version 2>/dev/null | grep -q GNU; then
+        sed -i "$@"
+    else
+        sed -i '' "$@"
+    fi
+}
+
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 SKILLS_DIR="$HOME/.claude/skills"
 COUNT="unknown"
@@ -21,7 +30,7 @@ echo "[1/6] Installing prompt-engine (main skill)..."
 rm -rf "$SKILLS_DIR/prompt-engine"
 cp -r "$SCRIPT_DIR/prompt-engine" "$SKILLS_DIR/prompt-engine"
 # Replace {PROMPT_ENGINE_DIR} placeholder with actual repo path
-sed -i "s|{PROMPT_ENGINE_DIR}|$SCRIPT_DIR|g" "$SKILLS_DIR/prompt-engine/SKILL.md"
+sedi "s|{PROMPT_ENGINE_DIR}|$SCRIPT_DIR|g" "$SKILLS_DIR/prompt-engine/SKILL.md"
 
 # [2/6] Install sub-skills (with path substitution)
 echo "[2/6] Installing sub-skills..."
@@ -29,7 +38,7 @@ for skill in prompt-build prompt-enhance prompt-adapt prompt-library; do
     echo "  [+] $skill"
     rm -rf "$SKILLS_DIR/$skill"
     cp -r "$SCRIPT_DIR/skills/$skill" "$SKILLS_DIR/$skill"
-    sed -i "s|{PROMPT_ENGINE_DIR}|$SCRIPT_DIR|g" "$SKILLS_DIR/$skill/SKILL.md"
+    sedi "s|{PROMPT_ENGINE_DIR}|$SCRIPT_DIR|g" "$SKILLS_DIR/$skill/SKILL.md"
 done
 
 # [3/6] Link references (symlink to avoid duplication)
