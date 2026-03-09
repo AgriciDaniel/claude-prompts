@@ -1,0 +1,8 @@
+{
+  "name": "prompt-engine",
+  "version": "1.0.0",
+  "description": "AI prompt database and builder skill for Claude Code. 2,500+ curated prompts across 19 categories and 17 AI models. Search, build, enhance, and adapt prompts.",
+  "author": "AgriciDaniel",
+  "license": "MIT",
+  "homepage": "https://github.com/AgriciDaniel/claude-prompts"
+}
